@@ -11,9 +11,9 @@ title                    : "Xue Gong"
 title_separator          : "-"
 name                     : &name "Xue Gong"
 description              : &description "Presidential Postdoctoral Fellowship @ Nanyang Technological University. PhD in Applied Mathematics @ The University of Edinburgh."
-url                      : https://OpalGX.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://XueGong-git.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "OpalGX/OpalGX.github.io"
+repository               : "XueGong-git/XueGong-git.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "OpalGX"
+  github           : "XueGong-git"
   google_plus      :
   keybase          :
   instagram        :
