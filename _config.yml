@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xue Gong"
 title_separator          : "-"
 name                     : &name "Xue Gong"
-description              : &description "Presidential Postdoctoral Fellowship @ Nanyang Technological University"
+description              : &description "Presidential Postdoctoral Fellowship @ Nanyang Technological University. PhD in Applied Mathematics @ The University of Edinburgh."
 url                      : https://OpalGX.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OpalGX/OpalGX.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Xue Gong"
-  avatar           : "GongXueProfilePhotoCrop4.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "images/GongXueProfilePhotoCrop4.png"
+  bio              : "Presidential Postdoctoral Fellowship @ Nanyang Technological University, Singapore. PhD in Applied Mathematics @ The University of Edinburgh."
   location         : "Singapore"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Nanyang Technological University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=JgrSweYAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6470-8679"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
