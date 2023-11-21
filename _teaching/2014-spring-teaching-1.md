@@ -8,7 +8,6 @@ date:  2022
 location: "Edinburgh, UK"
 ---
 
-
 Heading 1
 ======
 
