@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Xue Gong"
 title_separator          : "-"
 name                     : &name "Xue Gong"
 description              : &description "Presidential Postdoctoral Fellowship @ Nanyang Technological University"
