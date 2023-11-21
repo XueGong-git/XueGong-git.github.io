@@ -8,5 +8,4 @@ date:  2022-09-06
 location: "Edinburgh, UK"
 ---
 
-- In recognition of attainment against the UK Professional Standards Framework for teaching and learning support in higher
-education
+I received the Edinburgh Teaching Award, which is equivalent to the [Associate Fellowship of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/associate-fellowship) (AFHEA) . It provides national recognition of commitment to professionalism in teaching and learning in higher education in the UK.
