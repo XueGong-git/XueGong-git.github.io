@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xue Gong"
+title                    : "Xue Gong's Personal Website"
 title_separator          : "-"
 name                     : &name "Xue Gong"
 description              : &description "Presidential Postdoctoral Fellowship @ Nanyang Technological University. PhD in Applied Mathematics @ The University of Edinburgh."
