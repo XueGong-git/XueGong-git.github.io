@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied Mathematics, The University of Edinburgh, 2023
+* M.S. in Statistics, National University of Singapore, 2019
+* B.S. in Physics, Nanyang Technological University, 2015
 
 Work experience
 ======
@@ -27,14 +27,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +48,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
