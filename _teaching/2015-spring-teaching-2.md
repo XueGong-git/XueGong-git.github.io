@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "MATH11197 Research Skills for Computational Applied Mathematics"
 collection: teaching
-type: "Postgraduate Course"
+type: "Postgraduate (MSc) Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "The University of Edinburgh, School of Mathematics"
 date: 2020-09-01
