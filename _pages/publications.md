@@ -7,7 +7,8 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=https://scholar.google.com/cit&hl=&pli=1&user=JgrSweYAAAAJ).
 
-## Large-area synthesis of monolayer and few-layer MoSe2 films on SiO2 substrates ## [journal](https://pubs.acs.org/doi/abs/10.1021/nl5000906) [pdf](https://d1wqtxts1xzle7.cloudfront.net/46672578/Large-Area_Synthesis_of_Monolayer_and_Fe20160621-23194-hg4jql-libre.pdf?1466511049=&response-content-disposition=inline%3B+filename%3DLarge_Area_Synthesis_of_Monolayer_and_Fe.pdf&Expires=1700653093&Signature=B7b50r6WMbsckBi~vOEubSaFvsZY18Kh180s99q59SAuTqtiwiS1KVGmlN2gkns0VjEcffWAv6j97lOEf2WEDGhKUoEDSvMqg17lMl9NvfmQyRFpE9YgPqXILxpENYkMJer~AJ8d6h0nJbDUfVSORqAqWo6TCTfeym7rX1TfpV53gQkmnypn~1vwESx~DyQpiimAxS2Upl~M4mCtH9u8ZwwZpqWxe6wKaek4jScRcy7CgL8z5Mx49KdoFH2ps9hE3mJOMQa~L55lop-ZtDVdQ0wI934sryvWepT1udevJDxSgw3~fjbbtkS0TSxMnrd05r7dm5rdNJi8mZjhArcQ-A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+## Large-area synthesis of monolayer and few-layer MoSe2 films on SiO2 substrates ## 
+[journal](https://pubs.acs.org/doi/abs/10.1021/nl5000906) [pdf](https://d1wqtxts1xzle7.cloudfront.net/46672578/Large-Area_Synthesis_of_Monolayer_and_Fe20160621-23194-hg4jql-libre.pdf?1466511049=&response-content-disposition=inline%3B+filename%3DLarge_Area_Synthesis_of_Monolayer_and_Fe.pdf&Expires=1700653093&Signature=B7b50r6WMbsckBi~vOEubSaFvsZY18Kh180s99q59SAuTqtiwiS1KVGmlN2gkns0VjEcffWAv6j97lOEf2WEDGhKUoEDSvMqg17lMl9NvfmQyRFpE9YgPqXILxpENYkMJer~AJ8d6h0nJbDUfVSORqAqWo6TCTfeym7rX1TfpV53gQkmnypn~1vwESx~DyQpiimAxS2Upl~M4mCtH9u8ZwwZpqWxe6wKaek4jScRcy7CgL8z5Mx49KdoFH2ps9hE3mJOMQa~L55lop-ZtDVdQ0wI934sryvWepT1udevJDxSgw3~fjbbtkS0TSxMnrd05r7dm5rdNJi8mZjhArcQ-A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 Published in Nano Letters, 2009
 
 We present successful synthesis of large area atomically thin MoSe2 films by selenization of MoO3 in a vapor transport chemical vapor deposition (CVD) system.
