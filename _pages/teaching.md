@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Associate Fellowship of Advanced Higher Education UK## 
+## Associate Fellowship of Advanced Higher Education UK ## 
 Edinburgh, UK, 2022
 - I received the Associate Fellowship of the Higher Education Academy (AFHEA) which provides national recognition of commitment to professionalism in teaching and learning in higher education in the UK.
 
