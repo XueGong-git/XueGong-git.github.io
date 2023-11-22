@@ -10,10 +10,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 # Publications #
 
 ## Generative hypergraph models and spectral embedding ##
-Recommended citation: Gong, X, Higham, D.J. and Zygalakis, K. Generative hypergraph models and spectral embedding. <em> Scientific Report <\em> 13, 540 (2023). https://doi.org/10.1038/s41598-023-27565-9
+Recommended citation: Gong, X, Higham, D.J. and Zygalakis, K. Generative hypergraph models and spectral embedding. <em> Scientific Report </em> 13, 540 (2023). https://doi.org/10.1038/s41598-023-27565-9
 
 ## Directed network Laplacians and random graph models ##
-Recommended citation: Gong, X, Higham, D.J. and Zygalakis, K, 2021. Directed network Laplacians and random graph models. <em> Royal Society open science <\em>, 8(10), p.211144.
+Recommended citation: Gong, X, Higham, D.J. and Zygalakis, K, 2021. Directed network Laplacians and random graph models. <em> Royal Society open science </em>, 8(10), p.211144.
 
 ## Large-area synthesis of monolayer and few-layer MoSe2 films on SiO2 substrates ## 
 
