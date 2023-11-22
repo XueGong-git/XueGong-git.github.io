@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile.
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=https://scholar.google.com/cit&hl=&pli=1&user=JgrSweYAAAAJ).
 
 ## [Large-area synthesis of monolayer and few-layer MoSe2 films on SiO2 substrates](https://pubs.acs.org/doi/abs/10.1021/nl5000906) ##
 Published in Nano Letters, 2009
