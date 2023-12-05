@@ -24,3 +24,4 @@ We present successful synthesis of large area atomically thin MoSe2 films by sel
 Recommended citation: Lu X, Utama MI, Lin J, Gong X, Zhang J, Zhao Y, Pantelides ST, Wang J, Dong Z, Liu Z, Zhou W. Large-area synthesis of monolayer and few-layer MoSe2 films on SiO2 substrates. <em> Nano Letters </em>. 2014 May 14;14(5):2419-25. https://doi.org/10.1021/nl5000906 
 
 # In Preparation #
+ Gong, X, Higham, D.J. and Zygalakis, K, and Bianconi, G. Connection Hodge Laplacian for Directed Simplicial Complexes.
