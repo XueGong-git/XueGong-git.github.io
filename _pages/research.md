@@ -27,6 +27,7 @@ Recommended citation: Gong, X, Higham, D.J. and Zygalakis, K, 2021. Directed net
 ## Large-area synthesis of monolayer and few-layer MoSe2 films on SiO2 substrates ## 
 
 Published in Nano Letters, 2009 [journal](https://pubs.acs.org/doi/abs/10.1021/nl5000906)
+
 We present successful synthesis of large area atomically thin MoSe2 films by selenization of MoO3 in a vapor transport chemical vapor deposition (CVD) system.
 
 Recommended citation: Lu X, Utama MI, Lin J, Gong X, Zhang J, Zhao Y, Pantelides ST, Wang J, Dong Z, Liu Z, Zhou W. Large-area synthesis of monolayer and few-layer MoSe2 films on SiO2 substrates. <em> Nano Letters </em>. 2014 May 14;14(5):2419-25. https://doi.org/10.1021/nl5000906 
