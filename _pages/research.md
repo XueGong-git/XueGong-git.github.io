@@ -25,3 +25,5 @@ Recommended citation: Lu X, Utama MI, Lin J, Gong X, Zhang J, Zhao Y, Pantelides
 
 # In Preparation #
  Gong, X, Higham, D.J. and Zygalakis, K, and Bianconi, G. Connection Hodge Laplacian for Directed Simplicial Complexes.
+
+We define and analyze a new first-order Connection Hodge Laplacian for directed simplicial complexes, capturing directional flows on triangles. Through the analysis of triangle and torus examples, we showcase its ability to discover direction-related patterns.
