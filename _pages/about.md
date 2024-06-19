@@ -29,6 +29,6 @@ I am interested in graph embedding/graph drawing algorithms that find the positi
 ## News ##
 - I will join the workshop [Applied Geometry for Data Sciences Part I](https://www.newton.ac.uk/event/hta/](https://ims.nus.edu.sg/events/applied-geometry-for-data-sciences-part-i/) from 30 Sep to 11 Oct 2024, at NUS Singapore.
 - I will attend the workshop [Hypergraphs: Theory and Applications](https://www.newton.ac.uk/event/hta/)  from July 22 to August 2, 2024, at the Alan Turing Institute in London, UK.
-- I will be presenting my work on 26th June at [SUNBELT 2024](https://sunbelt2024.com/) in Edinburgh, UK
+- I will be presenting my work "Generative hypergraph models and spectral embedding" on 26th June at [SUNBELT 2024](https://sunbelt2024.com/) in Edinburgh, UK
 - I will participate in the [IMS-NTU joint workshop on Biomolecular Topology: Modelling and Data Analysis](https://ims.nus.edu.sg/events/biomolecular-topology-modelling-and-data-analysis/) on 24th June 2024 in Singapore
 - I co-organized the [NTU-NUS Joint Workshop on Applied Topology and Geometry for AI](https://sites.google.com/view/ntu-ntu-topo-geom-ai-workshop?usp=sharing), 17-18 February 2024, at NUS, Singapore 
