@@ -15,7 +15,7 @@ My research interests include learning on graphs/hypergraphs such as embedding, 
 
 Before my PhD, I earned an MSc in Statistics from the National University of Singapore, and a Bachelor of Science in Physics from Nanyang Technological University in Singapore during which I developed my interest in understanding interactions and patterns in complex systems. 
 
-Here is my [CV](https://XueGong-git.github.io/files/CV.pdf). 
+Here is my [CV](https://XueGong-git.github.io/files/cv.pdf). 
 
 ## Research Interests ##
 - Spectral clustering
