@@ -9,6 +9,30 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # Publications #
 
+## Higher-order Connection Laplacians for Directed Simplicial Complexes ##
+Gong, X, Higham, D.J. and Zygalakis, K, and Bianconi, G.
+
+Published in Journal of Physics: Complexity, 2023 [journal](https://iopscience.iop.org/article/10.1088/2632-072X/ad353b/meta) [arXiv](https://arxiv.org/abs/2402.07631)
+
+Higher-order networks encode the many-body interactions existing in complex systems, such as
+the brain, protein complexes, and social interactions. Simplicial complexes are higher-order
+networks that allow a comprehensive investigation of the interplay between topology and
+dynamics. However, simplicial complexes have the limitation that they only capture undirected
+higher-order interactions while in real-world scenarios, often there is a need to introduce the
+direction of simplices, extending the popular notion of direction of edges. On graphs and networks
+the Magnetic Laplacian, a special case of connection Laplacian, is becoming a popular operator to
+address edge directionality. Here we tackle the challenge of handling directionality in simplicial
+complexes by formulating higher-order connection Laplacians taking into account the
+configurations induced by the simplices’ directions. Specifically, we define all the connection
+Laplacians of directed simplicial complexes of dimension two and we discuss the induced
+higher-order diffusion dynamics by considering instructive synthetic examples of simplicial
+complexes. The proposed higher-order diffusion processes can be adopted in real scenarios when
+we want to consider higher-order diffusion displaying non-trivial frustration effects due to
+conflicting directionalities of the incident simplices.
+
+
+Recommended citation: Gong, X, Higham, D.J., Zygalakis, K. and Bianconi, G. Higher-order connection Laplacians for directed simplicial complexes. <em> Journal of Physics: Complexity </em> 5.1 (2024): 015022. 
+
 ## Generative hypergraph models and spectral embedding ##
 Published in Scientic Report, 2023 [journal](https://www.nature.com/articles/s41598-023-27565-9) [arXiv](https://arxiv.org/abs/2207.13895)
 
@@ -32,7 +56,4 @@ We present successful synthesis of large area atomically thin MoSe2 films by sel
 
 Recommended citation: Lu X, Utama MI, Lin J, Gong X, Zhang J, Zhao Y, Pantelides ST, Wang J, Dong Z, Liu Z, Zhou W. Large-area synthesis of monolayer and few-layer MoSe2 films on SiO2 substrates. <em> Nano Letters </em>. 2014 May 14;14(5):2419-25. https://doi.org/10.1021/nl5000906 
 
-# In Preparation #
- Gong, X, Higham, D.J. and Zygalakis, K, and Bianconi, G. Connection Hodge Laplacian for Directed Simplicial Complexes.
-
-We define and analyze a new first-order Connection Hodge Laplacian for directed simplicial complexes, capturing directional flows on triangles. Through the analysis of triangle and torus examples, we showcase its ability to discover direction-related patterns.
+ 
